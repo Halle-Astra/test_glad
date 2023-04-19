@@ -1,0 +1,3 @@
+/home/halle/programs/test_glad/build/CMakeFiles/rebuild_cache.dir
+/home/halle/programs/test_glad/build/CMakeFiles/edit_cache.dir
+/home/halle/programs/test_glad/build/CMakeFiles/test.dir
