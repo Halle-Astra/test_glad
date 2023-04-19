@@ -6,4 +6,4 @@ When I learn the installation of Glad, I find a bug on my machine. I need to rev
 Ref:
 
 1. [Blog](https://www.cnblogs.com/jiujiubashiyi/p/16429717.html);
-2. [Bug Resolving](https://cnblogs.com/bkct-tect-blog/p/16844862.html).
+2. [Bug Resolving](https://cnblogs.com/bkct-tech-blog/p/16844862.html).
